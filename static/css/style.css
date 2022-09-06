@@ -1,1 +1,9 @@
-/* css style sheet
+/* css style sheet */
+
+/* Add an image to the jumbotron */
+.jumbotron {
+  color: black;
+  background-image: url("../images/Plant_Based_Proteins.png");
+  background-size: 100% 100%;
+  text-align: center;
+}
